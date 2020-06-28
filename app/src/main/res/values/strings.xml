@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FireMarket</string>
+    <string name="title_activity_create">Create FireMarket Product</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Image view</string>
+    <string name="previous">Go back</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_list">Product List</string>
+    <string name="title_activity_detail">Product Detail</string>
+</resources>

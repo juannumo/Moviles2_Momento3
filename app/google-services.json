@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311157613076",
+    "firebase_url": "https://firemarket-b26fe.firebaseio.com",
+    "project_id": "firemarket-b26fe",
+    "storage_bucket": "firemarket-b26fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311157613076:android:42648fa405382146a8bd01",
+        "android_client_info": {
+          "package_name": "com.example.firemarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311157613076-cvbr13r0ti7k01hm3m1qovspvt7gjvgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBozi-Yk7pICFDCXXRsSkVKaaZ1RClS9p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311157613076-cvbr13r0ti7k01hm3m1qovspvt7gjvgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
